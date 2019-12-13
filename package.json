@@ -68,7 +68,7 @@
     "lodash": "^4.17.11",
     "node-fetch": "^2.6.0",
     "node-json-db": "^1.0.1",
-    "pino": "^5.12.6",
+    "pino": "^5.15.0",
     "progress": "^2.0.3",
     "prom-client": "^11.3.0",
     "puppeteer": "^2.0.0",
